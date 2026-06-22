@@ -1,6 +1,6 @@
 ## Pxl Shift
 ---
-# A Six Speed Transmission using 3 planetary gearboxes, this transmission was designed with First Tech Challenge hardware but can be adapted to the user's needs. 
+# A Six Speed Transmission using 3 planetary gearboxes, this transmission was designed with First Tech Challenge hardware but can be adapted to the user's hardware. 
 # All files are in .STEP format for easy editing of parts.
 <img width="606" height="569" alt="image" src="https://github.com/user-attachments/assets/3687724b-a1ee-4549-80b9-dfb6b2834f2c" />  
 
