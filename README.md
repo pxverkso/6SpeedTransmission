@@ -5,14 +5,48 @@
 <img width="606" height="569" alt="image" src="https://github.com/user-attachments/assets/3687724b-a1ee-4549-80b9-dfb6b2834f2c" />  
 <img width="3000" height="4000" alt="20260626_151211" src="https://github.com/user-attachments/assets/47fdbc50-f309-4952-b337-01f5dbe9654b" />
 
+## How it works
 The Transmission has 6 different speeds that can be shifted automatically. Each stage takes around 5 seconds to ramp up to shifting speed. 
+
+## Why I made this
+This was a great CAD Exercise where I was able to practice my tolerances. It was also a learning opportunity for me to learn how transmissions work and how gears are able to be switched simultaneously.
+
+
 The CAD Model of Pxl Shift is [Available Here](https://cad.onshape.com/documents/75fb335df3e2ec43449c259f/w/3389e1c426c2c39876040c3b/e/85c02890f00469d3cc6075b8?renderMode=0&uiState=6a388c4a8541333eb969d891) for exporting, viewing or assembly. You don't need an account for Onshape to view assemblies. Please use this as the assembly instructions as well. 
 
-For myself, I programmed my Pxl Shift on the REV Robotics Control Hub, a prebuilt PCB with preinstalled connectors, an alternative PCB to this, if you want to build one yourself is a Raspberry Pi with a Adafruit DC Motor Hat.
+## ASSEMBLY (IMPORTANT) 
+I would explain the assembly process but it would end up being confusing for those of you actually building it since the part's all look similar so use the Onshape CAD. 
+By looking at the left of your screen, you'll be able to see some folders of parts like the image below:
+<img width="191" height="93" alt="Screenshot 2026-07-23 235255" src="https://github.com/user-attachments/assets/f055af9a-dd14-4d52-8957-20d93bad7746" />
+Then Click the Eye Button to hide the assembly. Like below
+<img width="191" height="93" alt="Screenshot 2026-07-23 235309" src="https://github.com/user-attachments/assets/59338973-d522-4340-a5d0-b7864f2b5f98" />
+<img width="191" height="93" alt="Screenshot 2026-07-23 235323" src="https://github.com/user-attachments/assets/59e83745-657d-4b34-aad4-01bad83ef167" />
+
+Hide All folders Except PG3 And Work Your way up in this File order:
+
+PG3
+PG2
+PG1
+Input Clutch
+Base + Power Transmission
+btrshftr
+
+After You've build all the subsystems, you can just slide each subsystem into one another and it should assemble flawlessly. 
+
+
+## Programming (If you'd like to motorize it)
+For myself, I programmed my Pxl Shift on the 
+
+## REV Robotics Control Hub 
+
+A prebuilt PCB with preinstalled connectors and drivers, super easy to create projects like this for a programming newbie like me
+
+An alternative PCB to this, if you want to build one yourself, is a Raspberry Pi with a Adafruit DC Motor Hat 
+(Unfortunately you'll have to figure this out yourself, no code or drivers have been built for this project using these peripherals yet) 
 
 My school let me borrow parts for this project and the parts I used can be easily substituted with much cheaper parts. Here are the parts list used in this [build](https://docs.google.com/spreadsheets/d/1n-YdPj7j1ZeOJgT02BMX6BGqi6td0hHqOzs9oTdzwKs/edit?usp=sharing)
 
-Parts:
+Parts: (If you're worried about wires, if you order the motors from the website, wires are included in the package!)
 
 | Link + Name | Price (Needed for build) USD | Price USD | Link | Total Price Needed for Build USD: | Column 5 | Total USD (Without Taxes): |
 |:------------|:-----------------------------|:----------|:-----|:----------------------------------|:---------|:---------------------------|
