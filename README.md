@@ -17,10 +17,13 @@ The CAD Model of Pxl Shift is [Available Here](https://cad.onshape.com/documents
 ## ASSEMBLY (IMPORTANT) 
 I would explain the assembly process but it would end up being confusing for those of you actually building it since the part's all look similar so use the Onshape CAD. 
 By looking at the left of your screen, you'll be able to see some folders of parts like the image below:
-<img width="191" height="93" alt="Screenshot 2026-07-23 235255" src="https://github.com/user-attachments/assets/f055af9a-dd14-4d52-8957-20d93bad7746" />
+
+<img width="400" height="200" alt="Screenshot 2026-07-23 235255" src="https://github.com/user-attachments/assets/f055af9a-dd14-4d52-8957-20d93bad7746" />
+
 Then Click the Eye Button to hide the assembly. Like below
-<img width="191" height="93" alt="Screenshot 2026-07-23 235309" src="https://github.com/user-attachments/assets/59338973-d522-4340-a5d0-b7864f2b5f98" />
-<img width="191" height="93" alt="Screenshot 2026-07-23 235323" src="https://github.com/user-attachments/assets/59e83745-657d-4b34-aad4-01bad83ef167" />
+
+<img width="400" height="200" alt="Screenshot 2026-07-23 235309" src="https://github.com/user-attachments/assets/59338973-d522-4340-a5d0-b7864f2b5f98" />
+<img width="400" height="200" alt="Screenshot 2026-07-23 235323" src="https://github.com/user-attachments/assets/59e83745-657d-4b34-aad4-01bad83ef167" />
 
 Hide All folders Except PG3 And Work Your way up in this File order:
 
