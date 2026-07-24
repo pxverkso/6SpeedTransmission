@@ -14,13 +14,14 @@ My school let me borrow parts for this project and the parts I used can be easil
 
 Parts:
 
-Link + Name,Price (Needed for build) USD,Price USD,Link,Total Price Needed for Build USD:,Column 5,Total USD (Without Taxes):
-8mm REX Bearing ,$99.73 (72),$5.99,https://www.gobilda.com/1611-series-flanged-ball-bearing-8mm-rex-id-x-14mm-od-5mm-thickness-2-pack/,$857.96,,$857.96
-REV Robotics Control Hub ,$375 (1),$375,https://www.revrobotics.com/rev-31-1595/?searchid=5410248&search_query=control+hub,,,
-12v Nimh Battery ,$64.99 (1),$64.99,https://www.gobilda.com/12v-nimh-nested-battery-3000mah-mh-fc-xt30-connector/,Note:,,
-Smart Robot Servo ,$100.80 (4),$25.20,https://www.revrobotics.com/rev-41-1097/,I built this using parts that ,,
-"8mm REX® Shaft with E-Clip (Stainless Steel, 216mm Length)",$8.29 (1),$8.29,https://www.gobilda.com/8mm-rex-shaft-with-e-clip-stainless-steel-216mm-length/,were lent to me by my school,,
-M4 Screws ,$54.99 (1),$54.99,https://www.gobilda.com/m4-socket-head-screw-assortment-pack-600-pcs/,I did not pay any of these prices,,
-"8mm REX® Shaft with E-Clip (Stainless Steel, 168mm Length) ",$7.19 (1),$7.19,https://www.gobilda.com/8mm-rex-shaft-with-e-clip-stainless-steel-168mm-length/,I built this as an offseason,,
-"2000 Series Dual Mode Servo (25-2, Torque) ",$36.99 (1),$36.99,https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/,project to showcase at district,,
-5203 Series Yellow Jacket Planetary Gear Motor ,$109.98 (2),$54.99,https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-13-7-1-ratio-24mm-length-8mm-rex-shaft-435-rpm-3-3-5v-encoder/,events.,,
+| Link + Name | Price (Needed for build) USD | Price USD | Link | Total Price Needed for Build USD: | Column 5 | Total USD (Without Taxes): |
+|:------------|:-----------------------------|:----------|:-----|:----------------------------------|:---------|:---------------------------|
+| 8mm REX Bearing | $99.73 (72) | $5.99 | https://www.gobilda.com/1611-series-flanged-ball-bearing-8mm-rex-id-x-14mm-od-5mm-thickness-2-pack/ | $857.96 | | $857.96 |
+| REV Robotics Control Hub | $375 (1) | $375 | https://www.revrobotics.com/rev-31-1595/?searchid=5410248&search_query=control+hub | | | |
+| 12v Nimh Battery | $64.99 (1) | $64.99 | https://www.gobilda.com/12v-nimh-nested-battery-3000mah-mh-fc-xt30-connector/ | Note: | | |
+| Smart Robot Servo | $100.80 (4) | $25.20 | https://www.revrobotics.com/rev-41-1097/ | I built this using parts that | | |
+| 8mm REX® Shaft with E-Clip (Stainless Steel, 216mm Length) | $8.29 (1) | $8.29 | https://www.gobilda.com/8mm-rex-shaft-with-e-clip-stainless-steel-216mm-length/ | were lent to me by my school | | |
+| M4 Screws | $54.99 (1) | $54.99 | https://www.gobilda.com/m4-socket-head-screw-assortment-pack-600-pcs/ | I did not pay any of these prices | | |
+| 8mm REX® Shaft with E-Clip (Stainless Steel, 168mm Length) | $7.19 (1) | $7.19 | https://www.gobilda.com/8mm-rex-shaft-with-e-clip-stainless-steel-168mm-length/ | I built this as an offseason | | |
+| 2000 Series Dual Mode Servo (25-2, Torque) | $36.99 (1) | $36.99 | https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/ | project to showcase at district | | |
+| 5203 Series Yellow Jacket Planetary Gear Motor | $109.98 (2) | $54.99 | https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-13-7-1-ratio-24mm-length-8mm-rex-shaft-435-rpm-3-3-5v-encoder/ | events. | | |
